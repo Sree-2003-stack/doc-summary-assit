@@ -42,7 +42,7 @@ export default function LandingPage() {
               Unlock Insights from Your Documents
             </h1>
             <p className="mt-6 text-lg text-muted-foreground">
-              DocuBrain is an intelligent assistant that summarizes your documents, answers your questions, and challenges your knowledge. Upload a file and let the magic begin.
+              Doc-Summary-Assistant is an intelligent assistant that summarizes your documents, answers your questions, and challenges your knowledge. Upload a file and let the magic begin.
             </p>
             <div className="mt-10">
               <Button asChild size="lg">
